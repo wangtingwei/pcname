@@ -19,9 +19,9 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 172.16.16.204  netmask 255.255.240.0  broadcast 172.16.31.255
         inet6 fe80::a3e2:a4b:6403:cf43  prefixlen 64  scopeid 0x20<link>
         ether ac:ed:5c:c4:3e:70  txqueuelen 1000  (Ethernet)
-        RX packets 34  bytes 10988 (10.9 KB)
+        RX packets 20  bytes 5448 (5.4 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 24  bytes 3202 (3.2 KB)
+        TX packets 14  bytes 2089 (2.0 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2018年 08月 30日 星期四 08:41:08 CST
+2018年 08月 31日 星期五 08:48:41 CST
