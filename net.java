@@ -10,9 +10,9 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 109  bytes 7659 (7.6 KB)
+        RX packets 117  bytes 8155 (8.1 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 109  bytes 7659 (7.6 KB)
+        TX packets 117  bytes 8155 (8.1 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 wlp3s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
@@ -22,4 +22,4 @@ wlp3s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2018年 10月 28日 星期日 20:06:02 CST
+2018年 11月 08日 星期四 09:27:04 CST
