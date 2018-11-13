@@ -10,18 +10,18 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 113  bytes 7967 (7.9 KB)
+        RX packets 113  bytes 8975 (8.9 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 113  bytes 7967 (7.9 KB)
+        TX packets 113  bytes 8975 (8.9 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.1.17  netmask 255.255.255.0  broadcast 192.168.1.255
         inet6 fe80::b9bb:99d1:1747:906d  prefixlen 64  scopeid 0x20<link>
         ether ac:ed:5c:c4:3e:70  txqueuelen 1000  (Ethernet)
-        RX packets 14  bytes 2030 (2.0 KB)
+        RX packets 18  bytes 2417 (2.4 KB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 32  bytes 4516 (4.5 KB)
+        TX packets 34  bytes 5018 (5.0 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2018年 11月 13日 星期二 10:56:47 CST
+2018年 11月 13日 星期二 11:06:19 CST
